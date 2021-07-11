@@ -17,7 +17,7 @@ Configure the **connection.php** file with yours DB info.
 Make sure to create an empty database as the app will create a table for you.
 
 
-## What was used
+## What was use
 
 - PHP
 - MySQL
@@ -33,4 +33,4 @@ I am handling multi language from jquery. I have created langauge.js for this pu
 **Form**. All the validation is carried out in client side.
 After you submit a form Data goes to DB and also email to pre define email address
 
-**Responsiveness**. For a Responsive website, I used New Framework MaterilizeCss which is from Google.
+**Responsiveness**. For a Responsive website, I used New Framework MaterilizeCss which is from Google.=
