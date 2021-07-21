@@ -33,5 +33,5 @@ I am handling multi language from jquery. I have created langauge.js for this pu
 **Form**. All the validation is carriedhkn out in client side.
 After you submit a form Data goes to DB and also email to pre define email address
 
-**Responsiveness**. For a Responsive website, I used New Framework MaterilizeCss which is from Google.
+**Responsiveness**. For a Responsive website, I used New Framework MatersdilizeCss which is from Google.
 sdjfksd
