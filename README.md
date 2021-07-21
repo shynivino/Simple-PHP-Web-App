@@ -28,7 +28,7 @@ Make sure to create an empty database as the app will create a tabfle for you.
 ## The app
 
 **MultiLanguage** site, Its contain two languages, English and Danish. 
-I am handling multi language from jquery. I have created langauge.js for this purpose. The onclick function is called when the user hit change language and then using jquery I just replace the text.dsdf
+I am handling multi language from jquery. I have created langauge.js for this purpose. The onclick function is called when the user hit change language and then using jquery I just replace the text.dsdfsf
 
 **Form**. All the validation is carriedhkn out in client side.
 After you submit a form Data goes to DB and also email to pre define email address
