@@ -1,7 +1,7 @@
 # A PHP APP successful files
 A multi language site built in cxcPHP. Thcdce solution is a simple site which has 2 languages ENG/DK. The idea was to show a PHP app with an efficient responsive design and have a language switcher.  
 cvcvsdf
-## How to run tesing environmentxvdddfs
+## How to run tesing environmentxvdddfssd
 
 
 These are the instruction how to run the solution on your machine:
