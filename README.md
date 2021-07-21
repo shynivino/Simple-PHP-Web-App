@@ -14,7 +14,7 @@ If you use one of the app above be aware to clone the repo under your htdocs fol
 
 Configure the **connection.php** file with yours DB info.
 
-Make sure to create an empty database as the app will create a table for you.
+Make sure to create an empty database as the app will create a tabfle for you.
 
 
 ## What was used
